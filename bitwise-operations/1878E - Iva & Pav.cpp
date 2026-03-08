@@ -1,6 +1,7 @@
+// https://codeforces.com/problemset/problem/1878/E
+
 #include <bits/stdc++.h>
 using namespace std;
-
 
 void precompute(vector<int> &arr, vector<vector<int>> &sparse, int n) {
     
